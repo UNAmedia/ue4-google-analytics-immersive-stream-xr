@@ -9,7 +9,9 @@ The demo consists of a simple car configurator that logs the user choices to Goo
 
 **ATTENTION: the project must be configured with a Google Analytics Tracking ID before use. Detailed instructions are provided in the video tutorial below, or in the section ["Plugin configuration"](https://www.unamedia.com/ue5-google-analytics/api/#main_quickstart_config) of the documentation.**
 
-A complete **video tutorial** covering this demo and the setup of Google Analytics is available here: **LINK**
+A complete **video tutorial** covering this demo and the setup of Google Analytics is available here: <https://youtu.be/CP3Fpc_HbPw>
+
+[![User analytics in Immersive Stream for XR - video tutorial](docs/YouTube.jpg)](https://youtu.be/CP3Fpc_HbPw)
 
 *This demo is the result of a collaboration between the team of Google Cloud's [Immersive Stream for XR](https://xr.withgoogle.com/) and [UNAmedia](https://www.unamedia.com/).*
 
@@ -25,7 +27,7 @@ More information are available in the [documentation](https://www.unamedia.com/u
 
 ## Links
 
-Video Tutorial: **LINK**
+Video Tutorial: <https://youtu.be/CP3Fpc_HbPw>
 
 "Google Analytics Measurement Protocol" plugin:
 
